@@ -12,7 +12,7 @@ namespace UniversityLibrary
         DeputyDean,
         SeniorLecturer
     }
-    public class Lecturer: Person
+    public class Lecturer: Person, IAdmin
     {
         public LecturerType Title { get; set; }
 

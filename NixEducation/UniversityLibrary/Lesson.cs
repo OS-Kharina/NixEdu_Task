@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace UniversityLibrary
 {
-    public interface IAdmin
+    public enum TypeLesson
     {
+        Practice,
+        Lecture
+    }
+    public class Lesson
+    {
+        
     }
 }

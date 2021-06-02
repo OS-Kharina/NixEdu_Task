@@ -6,5 +6,8 @@ namespace UniversityLibrary
 {
     public class Student: Person
     {
+        //зачетка
+        //статус стипендии
+        //
     }
 }
