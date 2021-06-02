@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace UniversityLibrary
 {
-    public interface IAdmin
+    public class PublicChat: Chat
     {
-        //отметить ученика
-        //создать чат
+        //админ-создатель
+        //
     }
 }

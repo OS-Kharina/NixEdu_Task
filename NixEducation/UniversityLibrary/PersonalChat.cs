@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace UniversityLibrary
 {
-    public interface IAdmin
+    public class PersonalChat: Chat
     {
-        //отметить ученика
-        //создать чат
+        //уникальность набора собеседников
     }
 }

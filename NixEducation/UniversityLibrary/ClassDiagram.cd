@@ -1,100 +1,128 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="UniversityLibrary.Discipline" Collapsed="true">
-    <Position X="7" Y="0.5" Width="1.5" />
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="UniversityLibrary.Discipline">
+    <Position X="11.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Discipline.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.Group" Collapsed="true">
-    <Position X="7" Y="1.5" Width="1.5" />
+  <Class Name="UniversityLibrary.Group">
+    <Position X="11.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Group.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.Headman" Collapsed="true">
-    <Position X="0.5" Y="3.25" Width="1.5" />
+  <Class Name="UniversityLibrary.Headman">
+    <Position X="5" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Headman.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="UniversityLibrary.Lecturer" Collapsed="true">
-    <Position X="2.75" Y="1.75" Width="1.5" />
+  <Class Name="UniversityLibrary.Lecturer">
+    <Position X="7.25" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Lecturer.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="UniversityLibrary.Lesson" Collapsed="true">
-    <Position X="8.75" Y="1.5" Width="1.5" />
+  <Class Name="UniversityLibrary.Lesson">
+    <Position X="13.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Lesson.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.Person" Collapsed="true">
-    <Position X="1.75" Y="0.5" Width="1.5" />
+  <Class Name="UniversityLibrary.Person">
+    <Position X="6.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAACAAACAAAAAAAEAAAAQABAAAAAAAAIAAAAAAAgA=</HashCode>
       <FileName>Person.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.Register" Collapsed="true">
-    <Position X="5.25" Y="2.5" Width="1.5" />
+  <Class Name="UniversityLibrary.Register">
+    <Position X="11.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Register.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.Student" Collapsed="true">
-    <Position X="0.5" Y="1.75" Width="1.5" />
+  <Class Name="UniversityLibrary.Student">
+    <Position X="5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Student.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.Chair" Collapsed="true">
-    <Position X="5.25" Y="0.5" Width="1.5" />
+  <Class Name="UniversityLibrary.Chair">
+    <Position X="10" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Chair.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.ExtraPoints" Collapsed="true">
-    <Position X="8.75" Y="0.5" Width="1.5" />
+  <Class Name="UniversityLibrary.ExtraPoints">
+    <Position X="13.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ExtraPoints.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="UniversityLibrary.Faculty" Collapsed="true">
-    <Position X="5.25" Y="1.5" Width="1.5" />
+  <Class Name="UniversityLibrary.Faculty">
+    <Position X="10" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Faculty.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="UniversityLibrary.IAdmin" Collapsed="true">
-    <Position X="5.25" Y="3.75" Width="1.5" />
+  <Class Name="UniversityLibrary.Chat">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UniversityLibrary.Message">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UniversityLibrary.PersonalChat">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalChat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UniversityLibrary.PublicChat">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PublicChat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="UniversityLibrary.IAdmin">
+    <Position X="10" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IAdmin.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Enum Name="UniversityLibrary.LecturerType" Collapsed="true">
-    <Position X="5.25" Y="4.75" Width="1.5" />
+  <Enum Name="UniversityLibrary.LecturerType">
+    <Position X="10" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAACAAKAAAAAAA=</HashCode>
       <FileName>Lecturer.cs</FileName>
     </TypeIdentifier>
   </Enum>
-  <Enum Name="UniversityLibrary.TypeLesson" Collapsed="true">
-    <Position X="7" Y="4.75" Width="1.5" />
+  <Enum Name="UniversityLibrary.TypeLesson">
+    <Position X="11.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAA=</HashCode>
       <FileName>Lesson.cs</FileName>

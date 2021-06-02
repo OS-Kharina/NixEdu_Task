@@ -15,6 +15,5 @@ namespace UniversityLibrary
     public class Lecturer: Person, IAdmin
     {
         public LecturerType Title { get; set; }
-
     }
 }

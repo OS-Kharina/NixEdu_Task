@@ -8,6 +8,5 @@ namespace UniversityLibrary
     {
         //зачетка
         //статус стипендии
-        //
     }
 }
